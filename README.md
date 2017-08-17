@@ -1,2 +1,0 @@
-# paulsoniat.github.io
-paulsoniatwebsite
